@@ -1,7 +1,7 @@
 {
   "generator": "dev-tools/sync-spice-project.py",
   "managed_files": {
-    "README.md": "ba59004ddce6e3c77b73317c34ede707f99bd4563e3753bb20dd3e44c6cf975f",
+    "README.md": "efeeceda545b3d64974cc1a4568ce86d3d97b9001b421d4f11a002144f761c00",
     "files/cinnamon-workspace-name-applet@curbsoftware/applet.js": "2276d6ab9ba7f950fd79119a304b96dfc805b8bd0bd752e691adf3821a6239fe",
     "files/cinnamon-workspace-name-applet@curbsoftware/icon.png": "c9ebfa63a5c1f8b4a9b67825738b7f2c884dc6a57df79bba2d2c3e8623e4ad95",
     "files/cinnamon-workspace-name-applet@curbsoftware/metadata.json": "5c4103176eeb52d5be666a20173380076e6755ef9d0eb43b0debef68139c5c2e",
@@ -26,12 +26,14 @@
     "files/cinnamon-workspace-name-applet@curbsoftware/stylesheet.css": "becfc8be708dd66e14f7400d9028e6981b8454b2b3165b44eac21c99b573ac99",
     "files/cinnamon-workspace-name-applet@curbsoftware/workspaceActions.js": "bff355513c52c1305a35e84860eb520cf2c860d9f94d160bac40567b126d55fb",
     "info.json": "a4871de9e694ba9f4050497e8fcbad588e6b017fafb7e2c9423a5ee625f6f70d",
-    "screenshot.png": "363b01ce90308a1aaa073ab7f3499d8aa413d863db36cf55c1bdec701acc8326"
+    "screenshot.png": "363b01ce90308a1aaa073ab7f3499d8aa413d863db36cf55c1bdec701acc8326",
+    "screenshots/cinnamon-workspace-name-applet.webp": "70049d9f3aea6d4cb375819c7b2017a3d3bb01e69ec0b7ba6dab81c176f66a85",
+    "screenshots/workspace-name-config.webp": "fb2420f712ca88cc08ae1a203dad1203cca2f7905781327609274aaf05410642"
   },
   "schema": 1,
   "source_directory": "cinnamon-workspace-name-applet@curbsoftware",
   "source_repository": "CurbSoftware/cinnamon-monorepo",
-  "source_revision": "a47890062e9a71c093b8118e5bf2c8a2d8737215",
+  "source_revision": "2376db874d65fee1cf54f873586da7f8b4538b69",
   "source_worktree_dirty": false,
   "spice": {
     "alias": "workspace-names",

@@ -1,7 +1,7 @@
 {
   "generator": "dev-tools/sync-spice-project.py",
   "managed_files": {
-    "README.md": "efeeceda545b3d64974cc1a4568ce86d3d97b9001b421d4f11a002144f761c00",
+    "README.md": "f16483a6d705db34ab4cb9dfe40b6a800d5b3cb5315c6773bd3736e92ba9fc52",
     "files/cinnamon-workspace-name-applet@curbsoftware/applet.js": "2276d6ab9ba7f950fd79119a304b96dfc805b8bd0bd752e691adf3821a6239fe",
     "files/cinnamon-workspace-name-applet@curbsoftware/icon.png": "c9ebfa63a5c1f8b4a9b67825738b7f2c884dc6a57df79bba2d2c3e8623e4ad95",
     "files/cinnamon-workspace-name-applet@curbsoftware/metadata.json": "5c4103176eeb52d5be666a20173380076e6755ef9d0eb43b0debef68139c5c2e",
@@ -33,7 +33,7 @@
   "schema": 1,
   "source_directory": "cinnamon-workspace-name-applet@curbsoftware",
   "source_repository": "CurbSoftware/cinnamon-monorepo",
-  "source_revision": "2376db874d65fee1cf54f873586da7f8b4538b69",
+  "source_revision": "99350043441a1081f897a2f402af026c6abd2c74",
   "source_worktree_dirty": false,
   "spice": {
     "alias": "workspace-names",
